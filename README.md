@@ -24,5 +24,5 @@ HTML5, CSS3, JavaScript (ES6+), React (basic)
 
 ## 👩‍💻 Author
 **Tanvi Jivatode**  
-IT Student | Frontend Development  
+Web Developer
 GitHub: https://github.com/tanvi2711
