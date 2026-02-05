@@ -12,8 +12,7 @@ This repository showcases **UI development, responsive design, and frontend fund
 |------------|------------------------|-----------------------------------------------|
 | ECOGUARD   | HTML, CSS, JS, React   | Environmental awareness frontend web project  |
 | Netflix    | HTML, CSS              | Netflix-style UI clone                        |
-| Portfolio  | HTML, CSS, JS          | Personal portfolio website                   |
-| JS Projects| HTML, CSS, JavaScript  | Mini projects for DOM & logic practice       |
+| Portfolio  | HTML, CSS, JS          | Personal portfolio website                    |
 
 ---
 
