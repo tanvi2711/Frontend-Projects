@@ -13,7 +13,7 @@ const Navbar = () => {
       <ul className="nav-links">
         <li>Wildlife Tracking</li>
         <li>Deforestation</li>
-        <li>Pridictive Analysis</li>
+        <li>Predictive Analysis</li>
       </ul>
       <div >
         <button className="button">
